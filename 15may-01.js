@@ -13,3 +13,4 @@ rl.on('line', function (line) {
     str = input[0];
     console.log(str) // console.log 찍는 난이도 0 문제
 });
+
