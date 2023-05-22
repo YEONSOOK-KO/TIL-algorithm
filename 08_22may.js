@@ -1,3 +1,6 @@
+// programmers question URL : https://school.programmers.co.kr/learn/courses/30/lessons/181947
+// 덧셈식 출력하기
+
 const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin,
