@@ -14,3 +14,6 @@ rl.on('line', function (line) {
 }).on('close',function(){
     [...input].forEach(a => console.log(a))
 });
+
+// input함수를 다 찢어 배열에 넣어준뒤 foreach로 하나씩 콘솔에 찍어줌
+// 이때 각각 행동마다 콘솔을 찍어주기 때문에 한줄에 하나씩 출력됨
